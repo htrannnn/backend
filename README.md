@@ -109,4 +109,9 @@ Copy file `db.json` vào thư mục dự án backend hoặc paste mã sau:
 
 - Trên trang Github.com tạo repo mới tên là `backend`, liên kết thư mục `backend` này với repo vừa tạo chứ không phải thư mục deploy, thư mục deploy chỉ quản lý trong máy tính mình thôi.
 
-## Frontend
+## Deploy trên Render.com
+
+- Lúc chọn New Project chọn Web Services.
+- Chọn repo trên Github là backend.
+- Chọn Free
+- Chọn Deploy...
