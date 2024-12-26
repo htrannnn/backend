@@ -1,0 +1,61 @@
+{
+  "information": [
+    {
+      "stt": 1,
+      "id": 1,
+      "name": "Nguyễn Thị A",
+      "gender": "Female",
+      "phone": "0123456789",
+      "addressId": 3,
+      "email": "nguyenthia@gmail.com"
+    },
+    {
+      "stt": 2,
+      "id": 2,
+      "name": "Trần Văn B",
+      "gender": "Male",
+      "phone": "0987654321",
+      "addressId": 2,
+      "email": "tranvanb@gmail.com"
+    },
+    {
+      "stt": 3,
+      "id": 3,
+      "name": "Nguyễn Văn C",
+      "gender": "Male",
+      "phone": "0192837465",
+      "addressId": 1,
+      "email": "nguyenvanc@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Thanh Hang",
+      "gender": "Female",
+      "phone": "0374926592",
+      "email": "dinhhang440@gmail.com",
+      "addressId": "1"
+    },
+    {
+      "id": "5",
+      "name": "Huyen Tran",
+      "gender": "Female",
+      "phone": "0977659041",
+      "email": "tran.htran6123@gmail.com",
+      "addressId": "1"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "name": "Ha Noi"
+    },
+    {
+      "id": 2,
+      "name": "TP Ho Chi Minh"
+    },
+    {
+      "id": 3,
+      "name": "Da Nang"
+    }
+  ]
+}
